@@ -1,3 +1,3 @@
 # Masterix-Cheat-Console-V5
 
-To open the console, right-click the menu button on the KoGaMa website.
+To open the console, click the "CONSOLE"-button on the KoGaMa website.
